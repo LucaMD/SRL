@@ -1,0 +1,12 @@
+[submodule "code_resources/mimic-code"]
+	path = code_resources/mimic-code
+	url = git@gitlab.com:rl-sepsis/mimic-code.git
+[submodule "code_resources/sepsis3-mimic"]
+	path = code_resources/sepsis3-mimic
+	url = git@gitlab.com:rl-sepsis/sepsis3-mimic.git
+[submodule "code_resources/cs238_sepsis_rl"]
+	path = code_resources/cs238_sepsis_rl
+	url = git@gitlab.com:rl-sepsis/cs238_sepsis_rl.git
+[submodule "code_resources/sepsisrl"]
+	path = code_resources/sepsisrl
+	url = git@gitlab.com:rl-sepsis/sepsisrl.git

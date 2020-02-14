@@ -1,0 +1,54 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# ignore experiments files
+/SEPSIS/experiments/*
+
+# no pictures, i like privacy
+*.png
+*.tiff
+
+# no pdf's
+*.pdf
+
+# data files
+*.xls
+*.xlsx
+
+# model files
+*.chk
+
+# Backup files
+*.zip
+*.g7z
+
+# R files
+.Rhistory
+.Rdata
+
+# notebook checkpoints directories and content
+.ipynb_checkpoints
+
+# Dump files
+*.stackdump
+
+# Folder config files
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
