@@ -1,0 +1,2 @@
+random_SEED,train_sample,comment
+42,0.7,Main Experiment - training a model on half of the ICV data and testing on the full MIMIC dataset

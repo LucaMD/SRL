@@ -1,0 +1,2 @@
+FQI_SEED,FQI_iterations,gamma,max_depth,n_estimators
+42,100,0.9,5,80
